@@ -1,6 +1,7 @@
 # orderingsystem
 分布式的外卖订餐系统（未完成）
 工程部署：
+
 1.idea打开airspringclouddemo文件夹
 
 2.idea会自动导入包等，手动选择1.8版本jdk
